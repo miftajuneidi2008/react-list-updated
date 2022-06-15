@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.btn {
+  margin: 10px;
+  width: 150px;
+  height: 40px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.form-control {
+  margin: 10px;
+  justify-content: space-between;
+}
